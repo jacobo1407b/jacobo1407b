@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BUNBiplatform](https://github.com/bunbi/plataformabunbi)
 
-- 🌱 I’m currently learning **IBM Watson‎, Blokchain**
+- 🌱 I’m currently learning **IBM Watson‎, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https//a](https//a)
 
