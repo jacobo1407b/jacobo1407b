@@ -34,4 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobo1407b&hide=TeX&layout=compact)
 <hr/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
+
