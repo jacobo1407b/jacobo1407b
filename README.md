@@ -3,14 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobo1407b" alt="jacobo1407b" /> </p>
 
-- 🔭 I’m currently working on [BUNBiplatform](https://github.com/bunbi/plataformabunbi)
+- 🔭 I’m currently working on [BUNBiplatform](https://github.com/BUNBi-Blockchain-Business-Intelligence/bunbi-node)
 
 - 🌱 I’m currently learning **IBM Watson‎, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https//a](https//a)
+- 👨‍💻 All of my projects are available at [j1407b](https://j1407b.vercel.app)
 
-- 💬 Ask me about **React, Node,Electron**
+- 💬 Ask me about **React, Node, SOlidity**
 
 - 📫 How to reach me **jacobohernandezmendieta7@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jacobo1407b&show_icons=true" alt="jacobo1407b" /> </p>
+<hr>
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+<hr>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+
+<hr>
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
