@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [j1407b](https://j1407b.vercel.app)
 
-- 💬 Ask me about **React, Node, SOlidity**
+- 💬 Ask me about **React, Node, Solidity**
 
 - 📫 How to reach me **jacobohernandezmendieta7@gmail.com**
 
@@ -23,10 +23,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-<hr>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 
 <hr>
 
