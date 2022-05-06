@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobo1407b" alt="jacobo1407b" /> </p>
 
-- 🔭 I’m currently working on [BUNBiplatform](https://github.com/BUNBi-Blockchain-Business-Intelligence/bunbi-node)
 
-- 🌱 I’m currently learning **IBM Watson‎, Blockchain**
 
-- 👨‍💻 All of my projects are available at [j1407b](https://j1407b.vercel.app)
+- 🌱 I’m currently learning **Oracle OIC‎, Blockchain**
+
 
 - 💬 Ask me about **React, Node, Solidity**
 
